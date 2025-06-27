@@ -55,7 +55,7 @@
 ---
 
 ### 📫 Contact Me
-- 📬 Telegram: [@Shaxobff](https://t.me/Shaxobff)
-- ✉️ Email: shaxob@gmail.com
+- 📬 Telegram: [@shaxob_x](https://t.me/shaxob_x)
+- ✉️ Email: xunuddinovshaxob@gmail.com
 
 ---
