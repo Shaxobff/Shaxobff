@@ -42,7 +42,6 @@
 
 ### 🐍 Snake eating my contributions graph
 ![snake gif](https://github.com/Shaxobff/Shaxobff/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🎯 2025 Goals
