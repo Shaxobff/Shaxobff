@@ -9,6 +9,7 @@
 ### 🧠 About Me
 - 💻 Passionate about backend and automation
 - 🤖 I build Telegram bots with Aiogram and SQLAlchemy
+- 🌐 Experienced with FastAPI and Django for web backends
 - 🛫 Dreaming of studying and working in Germany 🇩🇪
 - 🧱 Building strong foundations in algorithms, clean code and system design
 
@@ -16,6 +17,8 @@
 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-333333?style=flat)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -47,6 +50,7 @@
 ### 🎯 2025 Goals
 - [x] Learn Python and SQL
 - [x] Build Telegram bots with Aiogram
+- [x] Learn FastAPI and Django for web development
 - [ ] Get my first real job or internship
 - [ ] Move to Germany or EU to study/work in IT
 - [ ] Start blogging or mentoring others in tech
