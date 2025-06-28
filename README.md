@@ -12,26 +12,22 @@
 
 ## 🚀 About Me
 
-```python
-class Shaxob:
-    def __init__(self):
-        self.name = "Shaxob Xunnudinov"
-        self.role = "Python Developer"
-        self.location = "Uzbekistan 🇺🇿"
-        self.dream_location = "Germany 🇩🇪"
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.specialties = ["Backend Development", "Telegram Bots", "API Development"]
-        
-    def current_focus(self):
-        return [
-            "Building scalable Telegram bots",
-            "Mastering FastAPI & Django",
-            "Learning German language",
-            "Contributing to open source"
-        ]
-        
-    def future_goals(self):
-        return "Software Engineer in Germany 🎯"
+daily_routine:
+  - 🧠 Study: "English for IELTS (goal: 7.0–8.0 band)"
+  - 💻 Code: "Building Telegram bots with Aiogram & SQLAlchemy"
+  - 📖 Learn: "Practicing algorithms, OOP, and system design"
+  - 🌐 Explore: "German universities & IT job market in the EU"
+  - 🏋️‍♂️ Grow: "Becoming a disciplined and strong developer"
+
+current_status:
+  age: 18
+  location: Uzbekistan 🇺🇿
+  role: Backend Developer (Python)
+  frameworks: [FastAPI, Django]
+  mission: "Become a senior backend dev in 3 years"
+  goal_country: Germany 🇩🇪
+
+favorite_quote: "Consistency beats motivation."
 ```
 
 ## 🛠️ Tech Stack & Tools
@@ -111,22 +107,6 @@ class Shaxob:
 
 </div>
 
-## 🌟 Fun Facts
-
-<div align="center">
-
-```yaml
-daily_routine:
-  - ☕ Coffee: "Fuel for coding"
-  - 💻 Code: "Building the future, one line at a time"
-  - 🎵 Music: "Lo-fi beats while coding"
-  - 📚 Learn: "German language & new technologies"
-  - 🌙 Dream: "About working in Berlin"
-
-favorite_quote: "Code is poetry written in logic"
-```
-
-</div>
 
 ## 📫 Let's Connect!
 
