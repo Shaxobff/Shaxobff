@@ -49,6 +49,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shaxobff/snake/output/github-contribution-grid-snake.svg" />
 </p>
+![](https://komarev.com/ghpvc/?username=Shaxobff&label=Profile+Views&color=0e75b6&style=flat)
+
 
 ---
 
