@@ -11,24 +11,41 @@
 </div>
 
 ## 🚀 About Me
+<div align="center">
 
-```yaml
-daily_routine:
-  - 🧠 Study: "English for IELTS (goal: 7.0–8.0 band)"
-  - 💻 Code: "Building Telegram bots with Aiogram & SQLAlchemy"
-  - 📖 Learn: "Practicing algorithms, OOP, and system design"
-  - 🌐 Explore: "German universities & IT job market in the EU"
-  - 🏋️‍♂️ Grow: "Becoming a disciplined and strong developer"
+  <h2>🚀 About Me</h2>
 
-current_status:
-  age: 18
-  location: Uzbekistan 🇺🇿
-  role: Backend Developer (Python)
-  frameworks: [FastAPI, Django]
-  mission: "Become a senior backend dev in 3 years"
-  goal_country: Germany 🇩🇪
+  <table align="center">
+    <tr>
+      <th align="left" colspan="2">Daily Routine</th>
+    </tr>
+    <tr><td>🧠 Study</td><td>English for IELTS (goal: 7.0–8.0 band)</td></tr>
+    <tr><td>💻 Code</td><td>Building Telegram bots with Aiogram &amp; SQLAlchemy</td></tr>
+    <tr><td>📖 Learn</td><td>Practicing algorithms, OOP, and system design</td></tr>
+    <tr><td>🌐 Explore</td><td>German universities &amp; IT job market in the EU</td></tr>
+    <tr><td>🏋️‍♂️ Grow</td><td>Becoming a disciplined and strong developer</td></tr>
+  </table>
+  <br/>
 
-favorite_quote: "Consistency beats motivation."
+  <table align="center">
+    <tr>
+      <th align="left" colspan="2">Current Status</th>
+    </tr>
+    <tr><td>Age</td><td>18</td></tr>
+    <tr><td>Location</td><td>Uzbekistan 🇺🇿</td></tr>
+    <tr><td>Role</td><td>Backend Developer (Python)</td></tr>
+    <tr><td>Frameworks</td><td>FastAPI, Django</td></tr>
+    <tr><td>Mission</td><td>Become a senior backend dev in 3 years</td></tr>
+    <tr><td>Goal Country</td><td>Germany 🇩🇪</td></tr>
+  </table>
+  <br/>
+
+  <blockquote>
+    <b>Favorite Quote:</b><br/>
+    <i>“Consistency beats motivation.”</i>
+  </blockquote>
+
+</div>
 ```
 
 ## 🛠️ Tech Stack & Tools
