@@ -16,20 +16,21 @@
 ---
 
 ### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Aiogram](https://img.shields.io/badge/-Aiogram-333333?style=flat)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Aiogram](https://img.shields.io/badge/Aiogram-2D3748?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaxobff&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaxobff&show_icons=true&theme=radical&hide=contribs,prs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxobff&layout=compact&theme=radical" height="150"/>
 </p>
 
@@ -44,20 +45,28 @@
 ---
 
 ### 🐍 Snake eating my contributions graph
-![snake gif](https://github.com/Shaxobff/Shaxobff/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shaxobff/snake/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ### 🎯 2025 Goals
-- [x] Learn Python and SQL
-- [x] Build Telegram bots with Aiogram
-- [x] Learn FastAPI and Django for web development
-- [ ] Get my first real job or internship
-- [ ] Move to Germany or EU to study/work in IT
-- [ ] Start blogging or mentoring others in tech
+
+- ✅ Learn Python and SQL  
+- ✅ Build Telegram bots with Aiogram  
+- ✅ Learn FastAPI and Django  
+- 🔲 Get my first real job or internship  
+- 🔲 Move to Germany or EU  
+- 🔲 Start blogging or mentoring others  
+
+**Progress:** ![30%](https://progress-bar.dev/30/)
 
 ---
 
 ### 📫 Contact Me
+
 - 📬 Telegram: [@shaxob_x](https://t.me/shaxob_x)
 - ✉️ Email: xunuddinovshaxob@gmail.com
 
