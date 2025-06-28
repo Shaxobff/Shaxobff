@@ -12,6 +12,7 @@
 
 ## 🚀 About Me
 
+```yaml
 daily_routine:
   - 🧠 Study: "English for IELTS (goal: 7.0–8.0 band)"
   - 💻 Code: "Building Telegram bots with Aiogram & SQLAlchemy"
