@@ -10,37 +10,69 @@
 
 </div>
 
-## 🚀 About Me
 <div align="center">
 
   <h2>🚀 About Me</h2>
 
-  <table align="center">
+  <table align="center" style="border: none;">
     <tr>
-      <th align="left" colspan="2">Daily Routine</th>
+      <th align="left" colspan="2" style="font-size: 20px;">🗓️ Daily Routine</th>
     </tr>
-    <tr><td>🧠 Study</td><td>English for IELTS (goal: 7.0–8.0 band)</td></tr>
-    <tr><td>💻 Code</td><td>Building Telegram bots with Aiogram &amp; SQLAlchemy</td></tr>
-    <tr><td>📖 Learn</td><td>Practicing algorithms, OOP, and system design</td></tr>
-    <tr><td>🌐 Explore</td><td>German universities &amp; IT job market in the EU</td></tr>
-    <tr><td>🏋️‍♂️ Grow</td><td>Becoming a disciplined and strong developer</td></tr>
+    <tr>
+      <td>🧠 <b>Study</b></td>
+      <td>English for IELTS <i>(goal: 7.0–8.0 band)</i></td>
+    </tr>
+    <tr>
+      <td>💻 <b>Code</b></td>
+      <td>Building Telegram bots with <b>Aiogram</b> &amp; <b>SQLAlchemy</b></td>
+    </tr>
+    <tr>
+      <td>📖 <b>Learn</b></td>
+      <td>Practicing <b>algorithms, OOP, and system design</b></td>
+    </tr>
+    <tr>
+      <td>🌐 <b>Explore</b></td>
+      <td>German universities &amp; IT job market in the <b>EU</b></td>
+    </tr>
+    <tr>
+      <td>🏋️‍♂️ <b>Grow</b></td>
+      <td>Becoming a <b>disciplined</b> and <b>strong developer</b></td>
+    </tr>
   </table>
   <br/>
 
-  <table align="center">
+  <table align="center" style="border: none;">
     <tr>
-      <th align="left" colspan="2">Current Status</th>
+      <th align="left" colspan="2" style="font-size: 20px;">📌 Current Status</th>
     </tr>
-    <tr><td>Age</td><td>18</td></tr>
-    <tr><td>Location</td><td>Uzbekistan 🇺🇿</td></tr>
-    <tr><td>Role</td><td>Backend Developer (Python)</td></tr>
-    <tr><td>Frameworks</td><td>FastAPI, Django</td></tr>
-    <tr><td>Mission</td><td>Become a senior backend dev in 3 years</td></tr>
-    <tr><td>Goal Country</td><td>Germany 🇩🇪</td></tr>
+    <tr>
+      <td><b>Age</b></td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Uzbekistan 🇺🇿</td>
+    </tr>
+    <tr>
+      <td><b>Role</b></td>
+      <td>Backend Developer (Python)</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>FastAPI, Django</td>
+    </tr>
+    <tr>
+      <td><b>Mission</b></td>
+      <td>Become a <b>senior backend dev</b> in 3 years</td>
+    </tr>
+    <tr>
+      <td><b>Goal Country</b></td>
+      <td>Germany 🇩🇪</td>
+    </tr>
   </table>
   <br/>
 
-  <blockquote>
+  <blockquote style="font-size: 18px; border-left: 4px solid #a855f7; margin: 0 auto; width: 70%;">
     <b>Favorite Quote:</b><br/>
     <i>“Consistency beats motivation.”</i>
   </blockquote>
