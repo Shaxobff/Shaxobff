@@ -128,10 +128,10 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shaxobff&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+
+
+  
 </div>
-
-
-
 🎯 Goals & Progress
 <table>
 <tr>
@@ -143,14 +143,16 @@
 </td>
 <td width="50%">
 🎯 Current Goals
-💼 Get Software Developer Job   ████████░░░░  60%
+💼 Get Software Developer Job   ████████░░░░  20%
 🇩🇪 Move to Germany/EU          ████░░░░░░░░  30%
 📝 Start Tech Blog/Mentoring    ███░░░░░░░░░  20%
 </td>
 </tr>
 </table>
 <div align="center">
-📊 Overall Progress
+### 📊 Overall Progress  
+<img src="https://progress-bar.dev/50/?title=Progress&width=300&color=blueviolet">
+
 Show Image
 </div>
 
