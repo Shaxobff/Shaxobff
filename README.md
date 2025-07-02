@@ -129,28 +129,29 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shaxobff&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </div>
-## 🎯 2025 Roadmap
 
+
+
+🎯 Goals & Progress
+<table>
+<tr>
+<td width="50%">
+✅ Completed Goals
+🐍 Master Python & SQL         ████████████ 100%
+🤖 Build Telegram Bots         ████████████ 100%  
+⚡ Learn FastAPI & Django       ████████████ 100%
+</td>
+<td width="50%">
+🎯 Current Goals
+💼 Get Software Developer Job   ████████░░░░  60%
+🇩🇪 Move to Germany/EU          ████░░░░░░░░  30%
+📝 Start Tech Blog/Mentoring    ███░░░░░░░░░  20%
+</td>
+</tr>
+</table>
 <div align="center">
-
-| 🚀 Goal                        | ✅ Status     | 📊 Progress |
-|------------------------------|--------------|-------------|
-| Master Python & SQL          | ✅ Completed  | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| Build Telegram Bots          | ✅ Completed  | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| Learn FastAPI & Django       | ✅ Completed  | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| Get Software Developer Job   | 🔄 In Progress | ![60%](https://progress-bar.dev/60?color=ffaa00) |
-| Move to Germany / EU         | 📝 Planning   | ![30%](https://progress-bar.dev/30?color=ff6600) |
-| Start Tech Blog / Mentoring  | 📝 Planning   | ![20%](https://progress-bar.dev/20?color=ff0000) |
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 🧩 **Overall Progress**  
-![50%](https://progress-bar.dev/50?color=blueviolet)
-
+📊 Overall Progress
+Show Image
 </div>
 
 ---
